@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Lili
+# Hi there 👋, I'm Lili
 
 Welcome, it's nice to have you here.
 
@@ -16,6 +16,8 @@ I am a **Software Engineer**, focused on **Front End development** currently usi
 
 - ⚡ Fun fact **I am super curios about human behavior.**
 
+<br />
+
 <h3 align="left">Find me around the web:</h3>
 <p align="left">
 <a href="https://twitter.com/lilirestrepot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lilirestrepot" height="30" width="40" /></a>
@@ -23,6 +25,21 @@ I am a **Software Engineer**, focused on **Front End development** currently usi
 <a href="https://instagram.com/lilianarestrepotorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lilianarestrepotorres" height="30" width="40" /></a>
 </p>
 
+<br/>
+
+<h3 align="left">My projects:</h3>
+
+- [Studio Ghibli Tracker](https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker)
+<p>
+Web application that gets from our own api a list of films produced by Studio Ghibli, and allows the user register a personal rating. The app keeps track of the interactions.
+</p>
+
+- [Ghibli BackOffice](https://github.com/C10-Ghibli-s/FE-Backoffice)
+<p>
+Web application to manage the information to be displayed to the user.
+</p>
+
+<br />
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -45,5 +62,6 @@ I am a **Software Engineer**, focused on **Front End development** currently usi
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
+<br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lilianarestrepotorres&show_icons=true&locale=en" alt="lilianarestrepotorres" /></p>
