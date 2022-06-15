@@ -16,7 +16,7 @@ I am a **Software Engineer**, focused on **Front End development** currently usi
 
 - ⚡ Fun fact **I am super curios about human behavior.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me around the web:</h3>
 <p align="left">
 <a href="https://twitter.com/lilirestrepot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lilirestrepot" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lilianarestrepotorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lilianarestrepotorres" height="30" width="40" /></a>
