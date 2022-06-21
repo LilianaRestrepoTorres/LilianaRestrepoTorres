@@ -2,7 +2,7 @@
 
 Welcome, it's nice to have you here.
 
-I am a **Software Engineer**, focused on **Front End development** currently using React.js, with a deep interest in Blockchain technology. Solving problems, detail-oriented, creative, outstanding communications skills. Proven track record of management and direction of teams. Experience of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach. Actually, I am part of one of the biggest development communities in LatinAmerica.
+I am a **Software Engineer**, focused on **Front End development** currently using React.js, with a deep interest in Blockchain technology. Solving problems, detail-oriented, creative, outstanding communications skills. Proven track record of management and direction of teams. Experience of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach. Actually, I am part of one of the biggest development communities in LatinAmerica as a PlatziMaster member.
 
 - 🔭 I’m currently working on **something cool 😉**
 
@@ -10,7 +10,7 @@ I am a **Software Engineer**, focused on **Front End development** currently usi
 
 - 💬 Ask me about **anything related to Software Engineer.**
 
-- 📫 How to reach me **lilianarestrepot@gmail.com**
+[//]: # (- 📫 How to reach me **lilianarestrepot@gmail.com**)
 
 - 📄 Know about my experiences [LinkedIn/LilianaRestrepoTorres/](https://www.linkedin.com/in/lilianarestrepotorres/)
 
@@ -38,6 +38,8 @@ Web application that gets from our own api a list of films produced by Studio Gh
 <p>
 Web application to manage the information to be displayed to the user.
 </p>
+
+- [Shopping List App](https://github.com/LilianaRestrepoTorres/shoppinglist) Applying main concepts of React: functional components and state hooks.
 
 <br />
 <h3 align="left">Languages and Tools:</h3>
