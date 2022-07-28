@@ -18,28 +18,22 @@ I am a **Software Engineer**, focused on **Front End development** currently usi
 
 <br />
 
-<h3 align="left">Find me around the web:</h3>
+<h3 align="left">Find my professional profile:</h3>
 <p align="left">
-<a href="https://twitter.com/lilirestrepot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lilirestrepot" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lilianarestrepotorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lilianarestrepotorres" height="30" width="40" /></a>
-<a href="https://instagram.com/lilianarestrepotorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lilianarestrepotorres" height="30" width="40" /></a>
 </p>
 
 <br/>
 
 <h3 align="left">My projects:</h3>
 
-- [Studio Ghibli Tracker](https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker)
-<p>
-Web application that gets from our own api a list of films produced by Studio Ghibli, and allows the user register a personal rating. The app keeps track of the interactions.
-</p>
+- [Studio Ghibli Tracker](https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker) Web application that gets from our own api a list of films produced by Studio Ghibli, and allows the user register a personal rating. The app keeps track of the interactions.
 
-- [Ghibli BackOffice](https://github.com/C10-Ghibli-s/FE-Backoffice)
-<p>
-Web application to manage the information to be displayed to the user.
-</p>
+- [Ghibli BackOffice](https://github.com/C10-Ghibli-s/FE-Backoffice) Web application to manage the information to be displayed to the user.
 
 - [Shopping List App](https://github.com/LilianaRestrepoTorres/shoppinglist) Applying main concepts of React: functional components and state hooks.
+
+- FullStack Deliveries App ([Frontend](https://github.com/LilianaRestrepoTorres/FE-delivery-app) and [Backend](https://github.com/LilianaRestrepoTorres/BE-delivery-app))
 
 <br />
 <h3 align="left">Languages and Tools:</h3>
