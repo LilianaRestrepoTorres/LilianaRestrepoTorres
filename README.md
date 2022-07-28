@@ -27,14 +27,21 @@ I am a **Software Engineer**, focused on **Front End development** currently usi
 
 <h3 align="left">My projects:</h3>
 
-- [Studio Ghibli Tracker](https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker) Web application that gets from our own api a list of films produced by Studio Ghibli, and allows the user register a personal rating. The app keeps track of the interactions.
+- [Studio Ghibli Tracker](https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker) Web application that gets from our own api a list of films produced by Studio Ghibli, and allows the user register a personal rating. The app keeps track of the interactions. 
 
-- [Ghibli BackOffice](https://github.com/C10-Ghibli-s/FE-Backoffice) Web application to manage the information to be displayed to the user.
+  The biggest challenge was to build it **from scratch without a boilerplate** using **React.js** and the needed packages.
+
+  
+- [Ghibli BackOffice](https://github.com/C10-Ghibli-s/FE-Backoffice) Web application to manage the information to be displayed to the user.  
+
+  I would like to highlight I learned **Next.js and Typescript** in a short period of time.
 
 - [Shopping List App](https://github.com/LilianaRestrepoTorres/shoppinglist) Applying main concepts of React: functional components and state hooks.
 
-- FullStack Deliveries App ([Frontend](https://github.com/LilianaRestrepoTorres/FE-delivery-app) and [Backend](https://github.com/LilianaRestrepoTorres/BE-delivery-app))
-
+- FullStack Deliveries App ( [Frontend](https://github.com/LilianaRestrepoTorres/FE-delivery-app) and [Backend](https://github.com/LilianaRestrepoTorres/BE-delivery-app) )  
+  
+  I liked the most was learning **Firebase to persist data** and create my own **API using Node.js**.
+  
 <br />
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
