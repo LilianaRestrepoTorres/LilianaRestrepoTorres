@@ -4,11 +4,11 @@
 
 Welcome, it's nice to have you here.
 
-I am a **Software Engineer**, focused on **Front End development** currently using React.js, with a deep interest in Blockchain technology. Solving problems, detail-oriented, creative, outstanding communications skills. Proven track record of management and direction of teams. Experience of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach. Actually, I am part of one of the biggest development communities in LatinAmerica as a PlatziMaster member.
+I am a **Software Engineer**, focused on **Full Stack development** currently using React.js, with a deep interest in Blockchain and AI technologies. Solving problems, detail-oriented, creative, outstanding communications skills. Proven track record of management and direction of teams. Experience of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach. Actually, I am part of one of the biggest development communities in LatinAmerica as a PlatziMaster member.
 
 - 🔭 I’m currently working on **something cool 😉**
 
-- 🌱 I’m currently learning **Next.js** and **Node.js.** Because I truly believe in the intersection of knowledge.
+- 🌱 I’m currently learning **Serverless Application Model (SAM)** and **Event-driven architecture (EDA)** Because I truly believe in the intersection of knowledge.
 
 - 💬 Ask me about **anything related to Software Engineer.**
 
@@ -29,6 +29,10 @@ I am a **Software Engineer**, focused on **Front End development** currently usi
 
 <h3 align="left">My projects:</h3>
 
+- FullStack Deliveries App ( [Frontend](https://github.com/LilianaRestrepoTorres/FE-delivery-app) and [Backend](https://github.com/LilianaRestrepoTorres/BE-delivery-app) )  
+  
+  I liked the most was learning **Firebase to persist data** and create my own **API using Node.js**.
+
 - [Studio Ghibli Tracker](https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker) Web application that gets from our own api a list of films produced by Studio Ghibli, and allows the user register a personal rating. The app keeps track of the interactions. 
 
   The biggest challenge was to build it **from scratch without a boilerplate** using **React.js** and the needed packages.
@@ -40,9 +44,6 @@ I am a **Software Engineer**, focused on **Front End development** currently usi
 
 - [Shopping List App](https://github.com/LilianaRestrepoTorres/shoppinglist) Applying main concepts of React: functional components and state hooks.
 
-- FullStack Deliveries App ( [Frontend](https://github.com/LilianaRestrepoTorres/FE-delivery-app) and [Backend](https://github.com/LilianaRestrepoTorres/BE-delivery-app) )  
-  
-  I liked the most was learning **Firebase to persist data** and create my own **API using Node.js**.
   
 <br />
 <h3 align="left">Languages and Tools:</h3>
