@@ -4,7 +4,7 @@
 
 Welcome, it's nice to have you here.
 
-I am a **Software Engineer**, focused on **Full Stack development** currently using React.js, with a deep interest in Blockchain and AI technologies. Solving problems, detail-oriented, creative, outstanding communications skills. Proven track record of management and direction of teams. Experience of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach. Actually, I am part of one of the biggest development communities in LatinAmerica as a PlatziMaster member.
+Experienced **Software Development Engineer** specializing in **Full-Stack Development** with expertise in React.js, Next.js, JavaScript, Node.js, Express.js, Postgresql, MySQL, Testing, Docker, SCRUM, and Kanban methodologies. Proven track record of successful management and direction of teams, delivering creative and scalable front and back end web applications. Skilled in developing web solutions based on Design Patterns and Data Structures. Passionate about leveraging my business analysis skills to add value to organizations from my position as a software developer.
 
 - 🔭 I’m currently working on **something cool 😉**
 
