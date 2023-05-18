@@ -29,6 +29,10 @@ Experienced **Software Development Engineer** specializing in **Full-Stack Devel
 
 <h3 align="left">My projects:</h3>
 
+- [AI Blog Application](https://github.com/LilianaRestrepoTorres/blog-ai-app) The application serves as a powerful AI-driven blog platform, allowing users to explore insightful content generated using the OpenAI API. 
+
+  Built with the latest **Next.js 13**, **TypeScript** and **Open AI API**.
+
 - FullStack Deliveries App ( [Frontend](https://github.com/LilianaRestrepoTorres/FE-delivery-app) and [Backend](https://github.com/LilianaRestrepoTorres/BE-delivery-app) )  
   
   I liked the most was learning **Firebase to persist data** and create my own **API using Node.js**.
